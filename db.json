@@ -1,0 +1,17 @@
+{
+    "veiculos": [
+        {
+            "id": 1,
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "ano": 2024,
+            "cor": "Azul",
+            "tipo": "Sedan",
+            "km": 100000,
+            "numeroPortas": 4,
+            "preco": 100000,
+            "foto": "https://www.toyota.com.br/content/dam/toyota/toyota-world/world/brazil/toyota-world-brazil/toyota-world-brazil-2024/toyota-world-brazil-2024-corolla-cross-hatchback-1.jpg"
+
+        }
+    ]
+}
