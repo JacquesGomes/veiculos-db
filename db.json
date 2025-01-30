@@ -43,10 +43,12 @@
             "modelo": "F8",
             "ano": 2024,
             "cor": "Vermelho",
+
             "tipo": "Sedan",
             "km": 10000,
             "numeroPortas": 2,
             "preco": 100000,
+            
             "foto": "assets/img/ferrari.avif"
         },
         {
