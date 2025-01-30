@@ -2,16 +2,61 @@
     "veiculos": [
         {
             "id": 1,
-            "marca": "Toyota",
-            "modelo": "Corolla",
+            "marca": "Tesla",
+            "modelo": "Model S",
             "ano": 2024,
-            "cor": "Azul",
+            "cor": "Branco",
             "tipo": "Sedan",
-            "km": 100000,
+            "km": 10000,
+            "numeroPortas": 4,
+            "preco": 1000000,
+            "foto": "img/tesla.jpg"
+
+        },
+        {
+            "id": 2,
+            "marca": "BMW",
+            "modelo": "X5",
+            "ano": 2024,
+            "cor": "Branco",
+            "tipo": "Sedan",
+            "km": 10000,
             "numeroPortas": 4,
             "preco": 100000,
-            "foto": "https://www.toyota.com.br/content/dam/toyota/toyota-world/world/brazil/toyota-world-brazil/toyota-world-brazil-2024/toyota-world-brazil-2024-corolla-cross-hatchback-1.jpg"
-
+            "foto": "img/bmw.jpg"
+        },
+        {
+            "id": 3,
+            "marca": "Mercedes",
+            "modelo": "C-Class",
+            "ano": 2024,
+            "cor": "Laranja",
+            "tipo": "Sedan",
+            "km": 10000,
+            "numeroPortas": 4,
+            "preco": 100000,
+            "foto": "img/mercedes.png"
+        },
+        {
+            "id": 4,
+            "marca": "Ferrari",
+            "modelo": "F8",
+            "ano": 2024,
+            "cor": "Vermelho",
+            "tipo": "Sedan",
+            "km": 10000,
+            "foto": "img/ferrari.avif"
+        },
+        {
+            "id": 5,
+            "marca": "Bugatti",
+            "modelo": "Chiron",
+            "ano": 2024,
+            "cor": "Preto",
+            "tipo": "Sedan",
+            "km": 10000,
+            "foto": "img/bugatti.jpg"
         }
+
     ]
 }
