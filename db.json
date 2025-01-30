@@ -8,7 +8,7 @@
             "cor": "Branco",
             "tipo": "Sedan",
             "km": 10000,
-            "numeroPortas": 4,
+            "numeroPortas": 2,
             "preco": 1000000,
             "foto": "assets/img/tesla.jpg"
 
@@ -45,6 +45,8 @@
             "cor": "Vermelho",
             "tipo": "Sedan",
             "km": 10000,
+            "numeroPortas": 2,
+            "preco": 100000,
             "foto": "assets/img/ferrari.avif"
         },
         {
@@ -53,8 +55,10 @@
             "modelo": "Chiron",
             "ano": 2024,
             "cor": "Preto",
+            "numeroPortas": 2,
             "tipo": "Sedan",
             "km": 10000,
+            "preco": 1000000,
             "foto": "assets/img/bugatti.jpg"
         }
 
