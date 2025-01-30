@@ -10,7 +10,7 @@
             "km": 10000,
             "numeroPortas": 4,
             "preco": 1000000,
-            "foto": "img/tesla.jpg"
+            "foto": "assets/img/tesla.jpg"
 
         },
         {
@@ -23,7 +23,7 @@
             "km": 10000,
             "numeroPortas": 4,
             "preco": 100000,
-            "foto": "img/bmw.jpg"
+            "foto": "assets/img/bmw.jpg"
         },
         {
             "id": 3,
@@ -35,7 +35,7 @@
             "km": 10000,
             "numeroPortas": 4,
             "preco": 100000,
-            "foto": "img/mercedes.png"
+            "foto": "assets/img/mercedes.png"
         },
         {
             "id": 4,
@@ -45,7 +45,7 @@
             "cor": "Vermelho",
             "tipo": "Sedan",
             "km": 10000,
-            "foto": "img/ferrari.avif"
+            "foto": "assets/img/ferrari.avif"
         },
         {
             "id": 5,
@@ -55,7 +55,7 @@
             "cor": "Preto",
             "tipo": "Sedan",
             "km": 10000,
-            "foto": "img/bugatti.jpg"
+            "foto": "assets/img/bugatti.jpg"
         }
 
     ]
